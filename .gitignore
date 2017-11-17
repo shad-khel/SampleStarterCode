@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/Clone1-API/bin
+/Clone1-API/obj
+/Clone1-API/Properties/PublishProfiles
+/packages
+/ExampleAPI
